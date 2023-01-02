@@ -18,6 +18,9 @@ using System.Windows.Shapes;
 namespace DanielKaarur_CSharp2_06
 {
 
+    // ---- C# II (Dor Ben Dor) ----
+    //          Daniel Kaarur
+    // -----------------------------
 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
