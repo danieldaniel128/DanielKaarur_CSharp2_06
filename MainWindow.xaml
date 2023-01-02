@@ -6,6 +6,11 @@
         xmlns:local="clr-namespace:DanielKaarur_CSharp2_06"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!-- 
+        C# II (Dor Ben Dor)     
+          Daniel Kaarur
+    -->
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
@@ -34,10 +39,12 @@
             </StackPanel>
             <StackPanel Grid.Row="1" Height="auto" HorizontalAlignment="Center">
                 <TextBox Name="TextBox1" Width="150">
+                    Enter Value 1
                 </TextBox>
             </StackPanel>
             <StackPanel Grid.Row="2" Height="auto" HorizontalAlignment="Center">
                 <TextBox Name="TextBox2" Width="150">
+                    Enter Value 2
                 </TextBox>
             </StackPanel>
         </Grid>
